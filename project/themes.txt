@@ -1,0 +1,6 @@
+* Physics-based models for Operational Earthquake Forecasting
+* Mechanisms of earthquake triggering
+* Fault mechanics and seismic cycles
+* The physics of small earthquakes 
+* Seismicity patterns on rough faults
+* Code validation (?)

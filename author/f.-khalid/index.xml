@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Khalid | Fault Mechanics @ MIT</title>
+    <link>https://camcat.github.io/author/f.-khalid/</link>
+      <atom:link href="https://camcat.github.io/author/f.-khalid/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Khalid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Khalid</title>
+      <link>https://camcat.github.io/author/f.-khalid/</link>
+    </image>
+    
+    <item>
+      <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
+      <link>https://camcat.github.io/publication/cattania-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://camcat.github.io/publication/cattania-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

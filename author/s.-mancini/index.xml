@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Mancini | Fault Mechanics @ MIT</title>
+    <link>https://camcat.github.io/author/s.-mancini/</link>
+      <atom:link href="https://camcat.github.io/author/s.-mancini/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Mancini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Mancini</title>
+      <link>https://camcat.github.io/author/s.-mancini/</link>
+    </image>
+    
+    <item>
+      <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
+      <link>https://camcat.github.io/publication/mancini-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://camcat.github.io/publication/mancini-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
