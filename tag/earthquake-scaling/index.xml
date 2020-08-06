@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>earthquake scaling | Fault Mechanics @ MIT</title>
-    <link>https://camcat.github.io/tag/earthquake-scaling/</link>
-      <atom:link href="https://camcat.github.io/tag/earthquake-scaling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eqsci.mit.edu/camcat/tag/earthquake-scaling/</link>
+      <atom:link href="https://eqsci.mit.edu/camcat/tag/earthquake-scaling/index.xml" rel="self" type="application/rss+xml" />
     <description>earthquake scaling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>earthquake scaling</title>
-      <link>https://camcat.github.io/tag/earthquake-scaling/</link>
+      <link>https://eqsci.mit.edu/camcat/tag/earthquake-scaling/</link>
     </image>
     
     <item>
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
-      <link>https://camcat.github.io/publication/cattania-2014/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2014/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014/</guid>
       <description></description>
     </item>
     

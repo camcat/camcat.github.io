@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y Ben-Zion | Fault Mechanics @ MIT</title>
-    <link>https://camcat.github.io/author/y-ben-zion/</link>
-      <atom:link href="https://camcat.github.io/author/y-ben-zion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eqsci.mit.edu/camcat/author/y-ben-zion/</link>
+      <atom:link href="https://eqsci.mit.edu/camcat/author/y-ben-zion/index.xml" rel="self" type="application/rss+xml" />
     <description>Y Ben-Zion</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Y Ben-Zion</title>
-      <link>https://camcat.github.io/author/y-ben-zion/</link>
+      <link>https://eqsci.mit.edu/camcat/author/y-ben-zion/</link>
     </image>
     
     <item>
       <title>Testing Atmospheric and Tidal Earthquake Triggering at Mt. Hochstaufen, Germany</title>
-      <link>https://camcat.github.io/publication/hainzl-2013/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/hainzl-2013/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</guid>
       <description></description>
     </item>
     

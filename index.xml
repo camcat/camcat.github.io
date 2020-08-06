@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fault Mechanics @ MIT</title>
-    <link>https://camcat.github.io/</link>
-      <atom:link href="https://camcat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eqsci.mit.edu/camcat/</link>
+      <atom:link href="https://eqsci.mit.edu/camcat/index.xml" rel="self" type="application/rss+xml" />
     <description>Fault Mechanics @ MIT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fault Mechanics @ MIT</title>
-      <link>https://camcat.github.io/</link>
+      <link>https://eqsci.mit.edu/camcat/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://camcat.github.io/courses/example/example1/</link>
+      <link>https://eqsci.mit.edu/camcat/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://camcat.github.io/courses/example/example1/</guid>
+      <guid>https://eqsci.mit.edu/camcat/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://camcat.github.io/courses/example/example2/</link>
+      <link>https://eqsci.mit.edu/camcat/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://camcat.github.io/courses/example/example2/</guid>
+      <guid>https://eqsci.mit.edu/camcat/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Seismicity on rough faults</title>
-      <link>https://camcat.github.io/project/roughness/</link>
+      <link>https://eqsci.mit.edu/camcat/project/roughness/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/roughness/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/roughness/</guid>
       <description>&lt;p&gt;Faults are not planar features, but instead exhibit geometrical roughness at all scales. This affects the slip behavior of individual ruptures, as well as the seismicity patterns. Our goal is to understand how fault roughness affects seismic sequences.&lt;/p&gt;
 &lt;p&gt;We have been exploring this question with quasi-dynamic rate-state simulations. The effect of roughness is easily understood in terms of normal stress variations, as follows. Slip on a rough fault generates regions of compressive stresses, which are stronger and tend to act as seismic asperities: they are locked between earthquakes, and once they accelerate they break in fast (seismic) events. Other regions experience tensile stress perturbations due to slip, and these weaker regions tend to slip in a stable matter (creep). Foreshock sequences are controlled by the stress transfer between these two regions, and several observed features (such as the temporal evolution of foreshocks and their tendency to migrate) arise naturally from these interactions.&lt;/p&gt;
 &lt;p&gt;In future work we will explore how a rough fault responds to external stress perturbations such as those from regional and remote earthquakes or anthropogenic activites (e.g. fluid injection). We will also extend our simulations to 3-D and include inelastic effects.&lt;/p&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>Fault mechanics and earthquake cycles</title>
-      <link>https://camcat.github.io/project/eq-cycles/</link>
+      <link>https://eqsci.mit.edu/camcat/project/eq-cycles/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/eq-cycles/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/eq-cycles/</guid>
       <description>&lt;p&gt;While some seismic sources rupture in characteristic, quasi-periodic earthquakes, most faults produce a more irregular pattern, with temporal clustering and a power-law distribution of rupture lengths. Why do we see such different behaviors?&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;ve been addressing this question from the prospective of fracture mechanics, connecting fault physics at a microscopic scale with the timing and extent of earthquake ruptures. Energy balance criteria predict that the timing and size of seismic events is controlled by the dimension of a fault relative to a characteristic length arising from frictional and elastic properties; for sufficiently large faults, this leads to power-law distributions commonly observed in earthquake catalogs. On the other hand, small faults can rupture in simple, quasi-periodic sequences of identical events. We have depeloped theoretical arguments predicting the recurrence intervals and its scaling with magnitude, in agreement with observations of small repeating earthquakes worldwide.&lt;/p&gt;
 &lt;p&gt;Until now, we have considered a rather idealized fault geometry and spatial distribution of frictional properties. Current and future work explores more complex and realistic cases, with applications to subduction zone cyles.&lt;/p&gt;
@@ -80,14 +80,14 @@
     
     <item>
       <title>The physics of small earthquakes</title>
-      <link>https://camcat.github.io/project/small-eqk/</link>
+      <link>https://eqsci.mit.edu/camcat/project/small-eqk/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/small-eqk/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/small-eqk/</guid>
       <description>&lt;p&gt;Small repeating earthquakes are events characterized by very similar waveforms, and overlapping rupture areas. Unlike most other earthquakes, they are very periodic; they are commonly interpreted as rupturing an isolated asperity embedded in a velocity-strengthening (creeping) fault. Since they are driven by aseismic slip, they are an invaluable tool to probe creeping sections of a fault, and detect spatio-temporal variations in slip rate.
 I used simple crack models to derive analytical expressions for the recurrence interval as a function of asperity dimension and seismic moment. These expressions are in excellent agreement with the scaling between recurrence interval and seismic moment observed in the simulations: $T_r \sim M_0^{1/ 6}$  (see figure), consistent with observations.&lt;/p&gt;
 &lt;p&gt;While these results are based on a relatively simple model (circular, uniform asperities), they provide a useful framework to interpret the seismic behavior of small asperities. They make specific predictions, such as a dependence of stress drop on magnitude and a transition between central ruptures for small asperities to lateral ruptures for large asperities (where small and large is a well defined ratio between the asperitity radius and the nucleation radius); similarly, the occurrence of partial ruptures is expected for asperities exceeding a particular dimension.&lt;/p&gt;
 &lt;p&gt;Cattania, C. and P. Segall (2018), &lt;em&gt;Crack models of repeating earthquakes predict observed moment-recurrence scaling&lt;/em&gt;, J. Geophys. Res. Solid Earth (
-&lt;a href=&#34;https://camcat.github.io/publication/cattania-2019/&#34;&gt;abstract&lt;/a&gt;; 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/publication/cattania-2019/&#34;&gt;abstract&lt;/a&gt;; 
 &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JB016056&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt;)&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Current and future efforts:&lt;/strong&gt; The results above imply a break of self-similarity near the nucleation dimension. Could this be seen in the data? To answer this question, we first need a theoretical source model for small earthquakes, which does not assume constant rupture velocity but instead considers the initial acceleration. I will present some preliminary results on this topic at the 2020 AGU Fall Meeting.&lt;/p&gt;
@@ -96,9 +96,9 @@ I used simple crack models to derive analytical expressions for the recurrence i
     
     <item>
       <title>Static stress triggering in operational earthquake forecasting</title>
-      <link>https://camcat.github.io/project/eof/</link>
+      <link>https://eqsci.mit.edu/camcat/project/eof/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/eof/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/eof/</guid>
       <description>&lt;p&gt;Aftershock sequences take place after all moderate and large earthquakes, and are a significant source of hazard. A primary mechanism for aftershocks is the static deformation and stresses in vicinity of a mainshock. Physics-based models for Operational Earthquake Forecasting bring our physical knowledge of elasticity and friction into time-dependent, probabilistic earthquake forecasts.&lt;/p&gt;
 &lt;p&gt;Our approach has been guided by an attempt to construct physically consistent and realistic models of the processes involved, by including time-dependent (aseismic) fault slip and a realistic fault geometry. We found that deep afterslip following large subduction earthquakes significantly contributes to triggering seismicity on shallow crustal faults (
 &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JB011500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cattania et al, 2015&lt;/a&gt;). Another outcome of this work is that stress heterogeneity due to the geometrical complexity of a fault system has a first-order impact in model behavior (
@@ -113,9 +113,9 @@ This improvement was confirmed by a collaborative experiment carried out within 
     
     <item>
       <title>Seismic swarms and aseismic slip driven by dikes</title>
-      <link>https://camcat.github.io/project/miyakejima/</link>
+      <link>https://eqsci.mit.edu/camcat/project/miyakejima/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/miyakejima/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/miyakejima/</guid>
       <description>&lt;p&gt;In addition to static stress changes from earthquakes on nearby faults, seismic sequences can be triggered by stress perturbations due to a number of processes, including magma migration and seismic waves from remote earthquakes.&lt;/p&gt;
 &lt;p&gt;With Eleonora Rivalta, Luigi Passarelli and Yosuke Aoki, we analyzed a seismic swarm during the 2000 Miyakejima dike intrusion and found evidence of aseismic slip on a complex fault system.&lt;/p&gt;
 &lt;p&gt;With Jeff McGuire and John Collins, we used a seismic catalog from ocean bottom seismometers in the East Pacific Rise, and detected instances of dynamic earthquake triggering from remote mainshocks.&lt;/p&gt;
@@ -124,17 +124,17 @@ This improvement was confirmed by a collaborative experiment carried out within 
     
     <item>
       <title>Dynamic triggering on transform faults</title>
-      <link>https://camcat.github.io/project/dyntrig/</link>
+      <link>https://eqsci.mit.edu/camcat/project/dyntrig/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/project/dyntrig/</guid>
+      <guid>https://eqsci.mit.edu/camcat/project/dyntrig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://camcat.github.io/talk/example/</link>
+      <link>https://eqsci.mit.edu/camcat/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/talk/example/</guid>
+      <guid>https://eqsci.mit.edu/camcat/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -154,17 +154,17 @@ This improvement was confirmed by a collaborative experiment carried out within 
     
     <item>
       <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
-      <link>https://camcat.github.io/publication/erickson-2020/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/erickson-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/erickson-2020/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/erickson-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://camcat.github.io/post/writing-technical-content/</link>
+      <link>https://eqsci.mit.edu/camcat/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/post/writing-technical-content/</guid>
+      <guid>https://eqsci.mit.edu/camcat/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -415,9 +415,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://camcat.github.io/post/jupyter/</link>
+      <link>https://eqsci.mit.edu/camcat/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/post/jupyter/</guid>
+      <guid>https://eqsci.mit.edu/camcat/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -464,9 +464,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://camcat.github.io/slides/example/</link>
+      <link>https://eqsci.mit.edu/camcat/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/slides/example/</guid>
+      <guid>https://eqsci.mit.edu/camcat/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -598,65 +598,65 @@ Three
     
     <item>
       <title>Complex Earthquake Sequences on Simple Faults</title>
-      <link>https://camcat.github.io/publication/cattania-2019-a/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2019-a/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crack Models of Repeating Earthquakes Predict Observed Moment-Recurrence Scaling</title>
-      <link>https://camcat.github.io/publication/cattania-2019/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2019/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
-      <link>https://camcat.github.io/publication/mancini-2019/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/mancini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/mancini-2019/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/mancini-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Forecasting Skill of Physics-based Seismicity Models during the 2010–2012 Canterbury, New Zealand, Earthquake Sequence</title>
-      <link>https://camcat.github.io/publication/cattania-2018/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2018/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Nonplanar Slow Rupture Episode during the 2000 Miyakejima Dike Intrusion</title>
-      <link>https://camcat.github.io/publication/cattania-2017-d/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2017-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2017-d/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2017-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connecting Crustal Seismicity and Earthquake-Driven Stress Evolution in Southern California</title>
-      <link>https://camcat.github.io/publication/pollitz-2017/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/pollitz-2017/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Triggering and Earthquake Swarms on East Pacific Rise Transform Faults</title>
-      <link>https://camcat.github.io/publication/cattania-2017-k/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2017-k/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2017-k/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2017-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://camcat.github.io/post/getting-started/</link>
+      <link>https://eqsci.mit.edu/camcat/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/post/getting-started/</guid>
+      <guid>https://eqsci.mit.edu/camcat/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -799,41 +799,41 @@ Three
     
     <item>
       <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
-      <link>https://camcat.github.io/publication/cattania-2016/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2016/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
-      <link>https://camcat.github.io/publication/cattania-2014/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2014/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
-      <link>https://camcat.github.io/publication/cattania-2014-b/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/cattania-2014-b/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Atmospheric and Tidal Earthquake Triggering at Mt. Hochstaufen, Germany</title>
-      <link>https://camcat.github.io/publication/hainzl-2013/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/hainzl-2013/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News Archive</title>
-      <link>https://camcat.github.io/post/news-archive/</link>
+      <link>https://eqsci.mit.edu/camcat/post/news-archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/post/news-archive/</guid>
+      <guid>https://eqsci.mit.edu/camcat/post/news-archive/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;May&lt;/strong&gt;
@@ -895,7 +895,7 @@ Three
 &lt;li&gt;&lt;strong&gt;November&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;Our article on 
-&lt;a href=&#34;https://camcat.github.io/project/repeaters/&#34;&gt;modeling of small repeating earthquakes&lt;/a&gt; has been accepted in JGR. Check it out 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/project/repeaters/&#34;&gt;modeling of small repeating earthquakes&lt;/a&gt; has been accepted in JGR. Check it out 
 &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JB016056&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -905,9 +905,9 @@ Three
 &lt;li&gt;&lt;strong&gt;August&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;I will attend the SCEC meeting (September 9-12, Palm Springs), the &lt;em&gt;Workshop on Modeling Earthquake Source Processes&lt;/em&gt; (October 8-10, Pasadena), and AGU. My coauthors and I will present work on 
-&lt;a href=&#34;https://camcat.github.io/project/repeaters/&#34;&gt;modeling of small repeating earthquakes&lt;/a&gt;, 
-&lt;a href=&#34;https://camcat.github.io/project/tohoku/&#34;&gt;time dependent fault locking prior to the Tohoku earthquke&lt;/a&gt;, 
-&lt;a href=&#34;https://camcat.github.io/project/coulomb&#34;&gt;Coulomb stress models of the 2016-2017 Central Italy sequence&lt;/a&gt;, and a 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/project/repeaters/&#34;&gt;modeling of small repeating earthquakes&lt;/a&gt;, 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/project/tohoku/&#34;&gt;time dependent fault locking prior to the Tohoku earthquke&lt;/a&gt;, 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/project/coulomb&#34;&gt;Coulomb stress models of the 2016-2017 Central Italy sequence&lt;/a&gt;, and a 
 &lt;a href=&#34;https://www.scec.org/publication/8214&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;comparison of numerical codes simulating earthquake sequences&lt;/a&gt;. Stay tuned for details!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

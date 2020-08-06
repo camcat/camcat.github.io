@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fred F. Pollitz | Fault Mechanics @ MIT</title>
-    <link>https://camcat.github.io/author/fred-f.-pollitz/</link>
-      <atom:link href="https://camcat.github.io/author/fred-f.-pollitz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eqsci.mit.edu/camcat/author/fred-f.-pollitz/</link>
+      <atom:link href="https://eqsci.mit.edu/camcat/author/fred-f.-pollitz/index.xml" rel="self" type="application/rss+xml" />
     <description>Fred F. Pollitz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fred F. Pollitz</title>
-      <link>https://camcat.github.io/author/fred-f.-pollitz/</link>
+      <link>https://eqsci.mit.edu/camcat/author/fred-f.-pollitz/</link>
     </image>
     
     <item>
       <title>Connecting Crustal Seismicity and Earthquake-Driven Stress Evolution in Southern California</title>
-      <link>https://camcat.github.io/publication/pollitz-2017/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/pollitz-2017/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</guid>
       <description></description>
     </item>
     

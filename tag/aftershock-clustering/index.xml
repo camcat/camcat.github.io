@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aftershock clustering | Fault Mechanics @ MIT</title>
-    <link>https://camcat.github.io/tag/aftershock-clustering/</link>
-      <atom:link href="https://camcat.github.io/tag/aftershock-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eqsci.mit.edu/camcat/tag/aftershock-clustering/</link>
+      <atom:link href="https://eqsci.mit.edu/camcat/tag/aftershock-clustering/index.xml" rel="self" type="application/rss+xml" />
     <description>aftershock clustering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://camcat.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>aftershock clustering</title>
-      <link>https://camcat.github.io/tag/aftershock-clustering/</link>
+      <link>https://eqsci.mit.edu/camcat/tag/aftershock-clustering/</link>
     </image>
     
     <item>
       <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
-      <link>https://camcat.github.io/publication/mancini-2019/</link>
+      <link>https://eqsci.mit.edu/camcat/publication/mancini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://camcat.github.io/publication/mancini-2019/</guid>
+      <guid>https://eqsci.mit.edu/camcat/publication/mancini-2019/</guid>
       <description></description>
     </item>
     
