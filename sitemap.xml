@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-cycle/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/author/eric-m.-dunham/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -143,6 +148,11 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/model-validation/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/author/nadia-lapusta/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -168,12 +178,22 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/rate-state-friction/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/author/ruth-harris/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/sylvain-barbot/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tags/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/aftershock-clustering/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/aftershocks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,7 +278,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-rate-state-modeling/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,17 +288,17 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-forecasting/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/tag/earthquake-periodicity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-scaling-laws/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/etas-models/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/etas-model/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,22 +333,22 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/short-term-earthquake-forecasts/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/scaling-laws/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/camcat/tag/slow-slip/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/triggering/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/abigail-jimenez/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/aftershocks/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-stress-transfer/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/canterbury/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,7 +373,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-triggering/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/etas/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,17 +393,17 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/operational-earthquake-forecasting/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/camcat/author/sandy-steacy/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/sebastian-hainzl/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/statistics/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,22 +433,17 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/clustering/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/crust/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/dike-intrusion/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/dike-induced-seismicity/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/dike/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -439,6 +454,16 @@
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/publication/cattania-2017-k/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-triggering/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/east-pacific-rise/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,6 +483,11 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/japan/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/author/jeffrey-j.-mcguire/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -473,22 +503,12 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/miyakejima-dike/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/miyakejima/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/oceanic-transform-faults/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/seismicity/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/slow-slip/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/transform/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -548,27 +568,17 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-stress/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-forecasting/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/camcat/author/f.-khalid/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/parallel-computing/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/hpc/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/rate-state-friction/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/parallel-computing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -583,17 +593,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-scaling/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/fractal-surface-roughness/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/fault-roughness/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,12 +608,32 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/megathrust/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/parkfield/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/postseismic/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/camcat/publication/cattania-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/rate-and-state-friction/</loc>
+    <loc>https://eqsci.mit.edu/camcat/tag/slip-models/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/subduction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,12 +643,12 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/c-cattania/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/camcat/tag/tohoku/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/frictional-earthquake-nucleation/</loc>
+    <loc>https://eqsci.mit.edu/camcat/author/c-cattania/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -639,11 +659,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/tag/rainfall-induced-seismicity/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/retrospective-testing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   

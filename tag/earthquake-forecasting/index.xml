@@ -5,7 +5,7 @@
     <link>https://eqsci.mit.edu/camcat/tag/earthquake-forecasting/</link>
       <atom:link href="https://eqsci.mit.edu/camcat/tag/earthquake-forecasting/index.xml" rel="self" type="application/rss+xml" />
     <description>earthquake forecasting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>earthquake forecasting</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
+      <link>https://eqsci.mit.edu/camcat/publication/mancini-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/camcat/publication/mancini-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Forecasting Skill of Physics-based Seismicity Models during the 2010–2012 Canterbury, New Zealand, Earthquake Sequence</title>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
       <link>https://eqsci.mit.edu/camcat/publication/cattania-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/camcat/publication/cattania-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014/</guid>
       <description></description>
     </item>
     
