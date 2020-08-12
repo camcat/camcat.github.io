@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yudong Sun | Fault Mechanics @ MIT</title>
-    <link>https://eqsci.mit.edu/camcat/author/yudong-sun/</link>
-      <atom:link href="https://eqsci.mit.edu/camcat/author/yudong-sun/index.xml" rel="self" type="application/rss+xml" />
+    <title>Yudong Sun | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/yudong-sun/</link>
+      <atom:link href="https://eqsci.mit.edu/author/yudong-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yudong Sun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Yudong Sun</title>
-      <link>https://eqsci.mit.edu/camcat/author/yudong-sun/</link>
+      <link>https://eqsci.mit.edu/author/yudong-sun/</link>
     </image>
     
   </channel>

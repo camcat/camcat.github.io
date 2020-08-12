@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jean-Paul Ampuero | Fault Mechanics @ MIT</title>
-    <link>https://eqsci.mit.edu/camcat/author/jean-paul-ampuero/</link>
-      <atom:link href="https://eqsci.mit.edu/camcat/author/jean-paul-ampuero/index.xml" rel="self" type="application/rss+xml" />
+    <title>Jean-Paul Ampuero | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/jean-paul-ampuero/</link>
+      <atom:link href="https://eqsci.mit.edu/author/jean-paul-ampuero/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Paul Ampuero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Jean-Paul Ampuero</title>
-      <link>https://eqsci.mit.edu/camcat/author/jean-paul-ampuero/</link>
+      <link>https://eqsci.mit.edu/author/jean-paul-ampuero/</link>
     </image>
     
     <item>
       <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
-      <link>https://eqsci.mit.edu/camcat/publication/erickson-2020/</link>
+      <link>https://eqsci.mit.edu/publication/erickson-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/erickson-2020/</guid>
+      <guid>https://eqsci.mit.edu/publication/erickson-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imbricated slip rate processes during slow slip transients imaged by low-frequency earthquakes</title>
+      <link>https://eqsci.mit.edu/publication/lengline-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/lengline-2017/</guid>
       <description></description>
     </item>
     

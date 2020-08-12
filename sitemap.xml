@@ -3,696 +3,1035 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication-type/2/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/authors/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://eqsci.mit.edu/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/roughness/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/gaspard-farge/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/eq-cycles/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/low-frequency-earthquakes/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/small-eqk/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/mexico/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/eof/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/farge-2020/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/miyakejima/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/nikolai-m-shapiro/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/dyntrig/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication_types/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/source-physics/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/subduction/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication-type/2/</loc>
+    <loc>https://eqsci.mit.edu/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/william-b.-frank/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/chile/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/claudio-satriano/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/el-madani-aissaoui/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/florent-aden-antoniow/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/jean-pierre-villotte/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/megathrust/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/natalia-poiata/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/pascal-bernard/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/precursors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/aden-2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/statistics/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/ahmed-elbanna/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/ahmed-elbanna/</loc>
+    <loc>https://eqsci.mit.edu/author/benjamin-idini/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/authors/</loc>
+    <loc>https://eqsci.mit.edu/author/brittany-a.-erickson/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/benjamin-idini/</loc>
+    <loc>https://eqsci.mit.edu/author/camilla-cattania/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/brittany-a.-erickson/</loc>
+    <loc>https://eqsci.mit.edu/tag/earthquake-cycle/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/camilla-cattania/</loc>
+    <loc>https://eqsci.mit.edu/author/eric-m.-dunham/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-cycle/</loc>
+    <loc>https://eqsci.mit.edu/author/jean-paul-ampuero/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/eric-m.-dunham/</loc>
+    <loc>https://eqsci.mit.edu/author/jeremy-e.-kozdon/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/jean-paul-ampuero/</loc>
+    <loc>https://eqsci.mit.edu/author/junle-jiang/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/jeremy-e.-kozdon/</loc>
+    <loc>https://eqsci.mit.edu/author/kali-l.-allison/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/junle-jiang/</loc>
+    <loc>https://eqsci.mit.edu/author/lauren-s.-abrahams/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/kali-l.-allison/</loc>
+    <loc>https://eqsci.mit.edu/author/maricela-best-mckay/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/lauren-s.-abrahams/</loc>
+    <loc>https://eqsci.mit.edu/author/martijn-van-den-ende/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/maricela-best-mckay/</loc>
+    <loc>https://eqsci.mit.edu/author/meng-wei/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/martijn-van-den-ende/</loc>
+    <loc>https://eqsci.mit.edu/author/michael-barall/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/meng-wei/</loc>
+    <loc>https://eqsci.mit.edu/tag/model-validation/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/michael-barall/</loc>
+    <loc>https://eqsci.mit.edu/author/nadia-lapusta/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/model-validation/</loc>
+    <loc>https://eqsci.mit.edu/author/paul-segall/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/nadia-lapusta/</loc>
+    <loc>https://eqsci.mit.edu/author/pengcheng-shi/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/paul-segall/</loc>
+    <loc>https://eqsci.mit.edu/tag/rate-state-friction/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/pengcheng-shi/</loc>
+    <loc>https://eqsci.mit.edu/tag/review/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication_types/</loc>
+    <loc>https://eqsci.mit.edu/author/romain-jolivet/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/</loc>
+    <loc>https://eqsci.mit.edu/author/ruth-harris/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/rate-state-friction/</loc>
+    <loc>https://eqsci.mit.edu/tag/seismo-geodesy/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/ruth-harris/</loc>
+    <loc>https://eqsci.mit.edu/tag/slow-slip/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/sylvain-barbot/</loc>
+    <loc>https://eqsci.mit.edu/author/sylvain-barbot/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tags/</loc>
+    <loc>https://eqsci.mit.edu/publication/erickson-2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/erickson-2020/</loc>
+    <loc>https://eqsci.mit.edu/publication/jolivet-2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/valere-lambert/</loc>
+    <loc>https://eqsci.mit.edu/tag/transform/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/xiao-ma/</loc>
+    <loc>https://eqsci.mit.edu/author/valere-lambert/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/yajing-liu/</loc>
+    <loc>https://eqsci.mit.edu/author/xiao-ma/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/yingdi-luo/</loc>
+    <loc>https://eqsci.mit.edu/author/yajing-liu/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/yuri-fialko/</loc>
+    <loc>https://eqsci.mit.edu/author/yingdi-luo/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/yuri-fialko/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/alps/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/anne-paul/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/camilla-cattania/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/clustering/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/frank-2019/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/detection/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/emily-e-brodsky/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/aftershocks/</loc>
+    <loc>https://eqsci.mit.edu/author/eric-beauce/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/matched-filter/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/michel-campillo/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/robert-d-van-der-hilst/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/beauce-2019/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/german-a-prieto/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/chao-2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/kazushige-obara/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/kevin-chao/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/tectonic-tremor/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/triggering/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/zhigang-peng/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/aftershocks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/c.-cattania/</loc>
+    <loc>https://eqsci.mit.edu/author/allen-l-husker/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2019-a/</loc>
+    <loc>https://eqsci.mit.edu/author/c.-cattania/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/</loc>
+    <loc>https://eqsci.mit.edu/publication/husker-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2019/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2019-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-forecasting/</loc>
+    <loc>https://eqsci.mit.edu/tag/coulomb-stress-changes/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-periodicity/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/etas-model/</loc>
+    <loc>https://eqsci.mit.edu/author/david-marsan/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/fracture-mechanics/</loc>
+    <loc>https://eqsci.mit.edu/tag/earthquake-forecasting/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/mancini-2019/</loc>
+    <loc>https://eqsci.mit.edu/tag/earthquake-periodicity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/m.-j.-werner/</loc>
+    <loc>https://eqsci.mit.edu/author/ekaterina-kazachkina/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/m.-segou/</loc>
+    <loc>https://eqsci.mit.edu/tag/etas/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/repeating-earthquakes/</loc>
+    <loc>https://eqsci.mit.edu/tag/fracture-mechanics/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/s.-mancini/</loc>
+    <loc>https://eqsci.mit.edu/author/guillermo-gonzales/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/scaling-laws/</loc>
+    <loc>https://eqsci.mit.edu/author/hugo-perfettini/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/slow-slip/</loc>
+    <loc>https://eqsci.mit.edu/publication/mancini-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/triggering/</loc>
+    <loc>https://eqsci.mit.edu/author/leticia-avila/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/abigail-jimenez/</loc>
+    <loc>https://eqsci.mit.edu/author/m.-j.-werner/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/m.-segou/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/michel-bouchon/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/postseismic/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/rate-and-state/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/repeating-earthquakes/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/s.-mancini/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/scaling-laws/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/perfettini-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/vladimir-kostoglodov/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/abigail-jimenez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/agnes-helmstetter/</loc>
+    <loc>https://eqsci.mit.edu/author/agnes-helmstetter/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/annemarie-christophersen/</loc>
+    <loc>https://eqsci.mit.edu/author/annemarie-christophersen/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/canterbury/</loc>
+    <loc>https://eqsci.mit.edu/tag/canterbury/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/david-rhoades/</loc>
+    <loc>https://eqsci.mit.edu/author/david-rhoades/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/etas/</loc>
+    <loc>https://eqsci.mit.edu/author/maria-liukis/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/maria-liukis/</loc>
+    <loc>https://eqsci.mit.edu/author/matthew-gerstenberger/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/matthew-gerstenberger/</loc>
+    <loc>https://eqsci.mit.edu/author/maximilian-j.-werner/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/maximilian-j.-werner/</loc>
+    <loc>https://eqsci.mit.edu/author/sandy-steacy/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/sandy-steacy/</loc>
+    <loc>https://eqsci.mit.edu/author/sebastian-hainzl/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/sebastian-hainzl/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2018/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/statistics/</loc>
+    <loc>https://eqsci.mit.edu/author/thomas-h.-jordan/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2018/</loc>
+    <loc>https://eqsci.mit.edu/author/warner-marzocchi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/thomas-h.-jordan/</loc>
+    <loc>https://eqsci.mit.edu/author/william-savran/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/warner-marzocchi/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/baptiste-rousset/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/william-savran/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/cecile-lasserre/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2017-d/</loc>
+    <loc>https://eqsci.mit.edu/publication/frank-2018-c/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/alexander-a-gusev/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/kamchatka/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2018-b/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/volcano/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/perfettini-2018/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2018-a/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/east-coast/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/intraplate/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/rachel-e-abercrombie/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/alexey-romanenko/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/beauce-2017/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/hpc/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/cascadia/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/lengline-2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/olivier-lengline/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/parkfield/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/rousset-2017/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/andrea-walpersdorf/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/anne-socquet/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/nathalie-cotte/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2017-a/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/piero-poli/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/cattania-2017-d/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/clustering/</loc>
+    <loc>https://eqsci.mit.edu/publication/pollitz-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</loc>
+    <loc>https://eqsci.mit.edu/tag/dike/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/dike/</loc>
+    <loc>https://eqsci.mit.edu/tag/dynamic-triggering/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/dynamic-triggering/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2017-k/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2017-k/</loc>
+    <loc>https://eqsci.mit.edu/tag/earthquake-triggering/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-triggering/</loc>
+    <loc>https://eqsci.mit.edu/tag/east-pacific-rise/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/east-pacific-rise/</loc>
+    <loc>https://eqsci.mit.edu/author/eleonora-rivalta/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/eleonora-rivalta/</loc>
+    <loc>https://eqsci.mit.edu/tag/fault-segmentation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/fault-segmentation/</loc>
+    <loc>https://eqsci.mit.edu/author/fred-f.-pollitz/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/fred-f.-pollitz/</loc>
+    <loc>https://eqsci.mit.edu/tag/japan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/japan/</loc>
+    <loc>https://eqsci.mit.edu/author/jeffrey-j.-mcguire/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/jeffrey-j.-mcguire/</loc>
+    <loc>https://eqsci.mit.edu/author/john-a.-collins/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/john-a.-collins/</loc>
+    <loc>https://eqsci.mit.edu/author/luigi-passarelli/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/luigi-passarelli/</loc>
+    <loc>https://eqsci.mit.edu/tag/miyakejima/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/miyakejima/</loc>
+    <loc>https://eqsci.mit.edu/tag/viscoelasticity/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/transform/</loc>
+    <loc>https://eqsci.mit.edu/author/yosuke-aoki/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/viscoelasticity/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/tag/anthropogenic/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/yosuke-aoki/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/frank-2016-b/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/frank-2016-c/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/frank-2016-a/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2016/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/f.-khalid/</loc>
+    <loc>https://eqsci.mit.edu/author/f.-khalid/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/hpc/</loc>
+    <loc>https://eqsci.mit.edu/tag/parallel-computing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/parallel-computing/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/chunquan-wu/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/afterslip/</loc>
+    <loc>https://eqsci.mit.edu/author/daniel-trugman/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/david-r-shelly/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/joan-gomberg/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/paul-a-johnson/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/robert-a-guyer/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/wu-2015/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/mathilde-radiguet/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2015-b/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2015-a/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/fluids/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/harsha-s-bhat/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2014-b/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/publication/frank-2014-a/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/afterslip/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/bogdan-enescu/</loc>
+    <loc>https://eqsci.mit.edu/author/bogdan-enescu/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/fault-roughness/</loc>
+    <loc>https://eqsci.mit.edu/tag/fault-roughness/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/frank-roth/</loc>
+    <loc>https://eqsci.mit.edu/author/frank-roth/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/lifeng-wang/</loc>
+    <loc>https://eqsci.mit.edu/author/lifeng-wang/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/megathrust/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/parkfield/</loc>
+    <loc>https://eqsci.mit.edu/tag/slip-models/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/postseismic/</loc>
+    <loc>https://eqsci.mit.edu/publication/cattania-2014-b/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2014/</loc>
+    <loc>https://eqsci.mit.edu/tag/tohoku/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/slip-models/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/author/juan-s-payero/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/subduction/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>https://eqsci.mit.edu/publication/frank-2013/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/tohoku/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/author/c-cattania/</loc>
+    <loc>https://eqsci.mit.edu/author/c-cattania/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/j-wassermann/</loc>
+    <loc>https://eqsci.mit.edu/author/j-wassermann/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/rainfall-induced-seismicity/</loc>
+    <loc>https://eqsci.mit.edu/tag/rainfall-induced-seismicity/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/s-hainzl/</loc>
+    <loc>https://eqsci.mit.edu/author/s-hainzl/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</loc>
+    <loc>https://eqsci.mit.edu/publication/hainzl-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/thermo-elastic-effects/</loc>
+    <loc>https://eqsci.mit.edu/tag/thermo-elastic-effects/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/tidal-triggering/</loc>
+    <loc>https://eqsci.mit.edu/tag/tidal-triggering/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/y-ben-zion/</loc>
+    <loc>https://eqsci.mit.edu/author/y-ben-zion/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/post/news-archive/</loc>
+    <loc>https://eqsci.mit.edu/author/</loc>
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/yudong-sun/</loc>
+    <loc>https://eqsci.mit.edu/author/camilla-cattania/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/caroline-mouchon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/jared-bryan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/mathilde-wimez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/qingyu-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/yudong-sun/</loc>
   </url>
   
 </urlset>

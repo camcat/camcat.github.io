@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chile | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/chile/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/chile/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chile</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Chile</title>
+      <link>https://eqsci.mit.edu/tag/chile/</link>
+    </image>
+    
+    <item>
+      <title>Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile</title>
+      <link>https://eqsci.mit.edu/publication/aden-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/aden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolated Triggered Tremor Spots in South America: Southern Chile, Ecuador, and Central Colombia</title>
+      <link>https://eqsci.mit.edu/publication/chao-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/chao-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
+      <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

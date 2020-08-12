@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>detection | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/detection/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>detection</title>
+      <link>https://eqsci.mit.edu/tag/detection/</link>
+    </image>
+    
+    <item>
+      <title>Systematic Detection of Clustered Seismicity Beneath the Southwestern Alps</title>
+      <link>https://eqsci.mit.edu/publication/beauce-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/beauce-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic tectonic tremor activity observed over multiple slow slip cycles in the Mexican subduction zone</title>
+      <link>https://eqsci.mit.edu/publication/husker-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/husker-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting the matched-filter search to a wide-aperture network: an aftershock sequence and an earthquake swarm in Connecticut</title>
+      <link>https://eqsci.mit.edu/publication/frank-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast matched-filter (FMF): an efficient seismic matched-filter search for both CPU and GPU architectures</title>
+      <link>https://eqsci.mit.edu/publication/beauce-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/beauce-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeating seismicity in the shallow crust modulated by transient stress perturbations</title>
+      <link>https://eqsci.mit.edu/publication/frank-2016-b/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
+      <link>https://eqsci.mit.edu/publication/frank-2014-b/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of low-frequency earthquakes (LFEs) based on a beamformed network response</title>
+      <link>https://eqsci.mit.edu/publication/frank-2014-a/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-frequency earthquakes in the Mexican Sweet Spot</title>
+      <link>https://eqsci.mit.edu/publication/frank-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

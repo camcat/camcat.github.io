@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HPC | Fault Mechanics @ MIT</title>
-    <link>https://eqsci.mit.edu/camcat/tag/hpc/</link>
-      <atom:link href="https://eqsci.mit.edu/camcat/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <title>HPC | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/hpc/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
     <description>HPC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>HPC</title>
-      <link>https://eqsci.mit.edu/camcat/tag/hpc/</link>
+      <link>https://eqsci.mit.edu/tag/hpc/</link>
     </image>
     
     <item>
+      <title>Fast matched-filter (FMF): an efficient seismic matched-filter search for both CPU and GPU architectures</title>
+      <link>https://eqsci.mit.edu/publication/beauce-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/beauce-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2016/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2016/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
+      <link>https://eqsci.mit.edu/publication/frank-2014-b/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2014-b/</guid>
       <description></description>
     </item>
     

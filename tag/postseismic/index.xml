@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>postseismic | Fault Mechanics @ MIT</title>
-    <link>https://eqsci.mit.edu/camcat/tag/postseismic/</link>
-      <atom:link href="https://eqsci.mit.edu/camcat/tag/postseismic/index.xml" rel="self" type="application/rss+xml" />
+    <title>postseismic | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/postseismic/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/postseismic/index.xml" rel="self" type="application/rss+xml" />
     <description>postseismic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>postseismic</title>
-      <link>https://eqsci.mit.edu/camcat/tag/postseismic/</link>
+      <link>https://eqsci.mit.edu/tag/postseismic/</link>
     </image>
     
     <item>
+      <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
+      <link>https://eqsci.mit.edu/publication/perfettini-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/perfettini-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for migration of aftershocks driven by afterslip</title>
+      <link>https://eqsci.mit.edu/publication/perfettini-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/perfettini-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
+      <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>
     

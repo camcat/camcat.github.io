@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Trugman | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/daniel-trugman/</link>
+      <atom:link href="https://eqsci.mit.edu/author/daniel-trugman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Trugman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Daniel Trugman</title>
+      <link>https://eqsci.mit.edu/author/daniel-trugman/</link>
+    </image>
+    
+    <item>
+      <title>Spatial-temporal variation of low-frequency earthquake bursts near Parkfield, California</title>
+      <link>https://eqsci.mit.edu/publication/wu-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/wu-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,18 +1,18 @@
 {
-  "name": "Fault Mechanics @ MIT",
-  "short_name": "Fault Mechanics @ MIT",
+  "name": "Earthquake Science",
+  "short_name": "Earthquake Science",
   "lang": "en-us",
-  "theme_color": "#278cc4",
-  "background_color": "#278cc4",
+  "theme_color": "#157ac2",
+  "background_color": "#157ac2",
   "icons": [{
-    "src": "/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/camcat/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

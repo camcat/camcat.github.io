@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander A Gusev | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/alexander-a-gusev/</link>
+      <atom:link href="https://eqsci.mit.edu/author/alexander-a-gusev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander A Gusev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Alexander A Gusev</title>
+      <link>https://eqsci.mit.edu/author/alexander-a-gusev/</link>
+    </image>
+    
+    <item>
+      <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
+      <link>https://eqsci.mit.edu/publication/frank-2018-b/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
+      <link>https://eqsci.mit.edu/publication/frank-2016-a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2016-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

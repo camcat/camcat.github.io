@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>volcano | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/volcano/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/volcano/index.xml" rel="self" type="application/rss+xml" />
+    <description>volcano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>volcano</title>
+      <link>https://eqsci.mit.edu/tag/volcano/</link>
+    </image>
+    
+    <item>
+      <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
+      <link>https://eqsci.mit.edu/publication/frank-2018-b/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/frank-2018-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

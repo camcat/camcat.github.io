@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coulomb stress changes | Fault Mechanics @ MIT</title>
-    <link>https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/</link>
-      <atom:link href="https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/index.xml" rel="self" type="application/rss+xml" />
+    <title>Coulomb stress changes | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/coulomb-stress-changes/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/coulomb-stress-changes/index.xml" rel="self" type="application/rss+xml" />
     <description>Coulomb stress changes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eqsci.mit.edu/camcat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Coulomb stress changes</title>
-      <link>https://eqsci.mit.edu/camcat/tag/coulomb-stress-changes/</link>
+      <link>https://eqsci.mit.edu/tag/coulomb-stress-changes/</link>
     </image>
     
     <item>
       <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
-      <link>https://eqsci.mit.edu/camcat/publication/mancini-2019/</link>
+      <link>https://eqsci.mit.edu/publication/mancini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/mancini-2019/</guid>
+      <guid>https://eqsci.mit.edu/publication/mancini-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Forecasting Skill of Physics-based Seismicity Models during the 2010–2012 Canterbury, New Zealand, Earthquake Sequence</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2018/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2018/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connecting Crustal Seismicity and Earthquake-Driven Stress Evolution in Southern California</title>
-      <link>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</link>
+      <link>https://eqsci.mit.edu/publication/pollitz-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/pollitz-2017/</guid>
+      <guid>https://eqsci.mit.edu/publication/pollitz-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2016/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2016/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
-      <link>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</link>
+      <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2014-b/</guid>
+      <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing Atmospheric and Tidal Earthquake Triggering at Mt. Hochstaufen, Germany</title>
-      <link>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</link>
+      <link>https://eqsci.mit.edu/publication/hainzl-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/camcat/publication/hainzl-2013/</guid>
+      <guid>https://eqsci.mit.edu/publication/hainzl-2013/</guid>
       <description></description>
     </item>
     
