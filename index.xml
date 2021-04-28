@@ -62,8 +62,8 @@
       <description>&lt;p&gt;Faults are not planar features, but instead exhibit geometrical roughness at all scales. This affects the slip behavior of individual ruptures, as well as the seismicity patterns. Our goal is to understand how fault roughness affects seismic sequences.&lt;/p&gt;
 &lt;p&gt;We have been exploring this question with quasi-dynamic rate-state simulations. The effect of roughness is easily understood in terms of normal stress variations, as follows. Slip on a rough fault generates regions of compressive stresses, which are stronger and tend to act as seismic asperities: they are locked between earthquakes, and once they accelerate they break in fast (seismic) events. Other regions experience tensile stress perturbations due to slip, and these weaker regions tend to slip in a stable matter (creep). Foreshock sequences are controlled by the stress transfer between these two regions, and several observed features (such as the temporal evolution of foreshocks and their tendency to migrate) arise naturally from these interactions.&lt;/p&gt;
 &lt;p&gt;In future work we will explore how a rough fault responds to external stress perturbations such as those from regional and remote earthquakes or anthropogenic activites (e.g. fluid injection). We will also extend our simulations to 3-D and include inelastic effects.&lt;/p&gt;
-&lt;p&gt;Preprint: 
-&lt;a href=&#34;https://eartharxiv.org/9xphk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Precursory slow slip and foreshocks on rough faults&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Article: 
+&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB020430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Precursory slow slip and foreshocks on rough faults&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -150,6 +150,14 @@ This improvement was confirmed by a collaborative experiment carried out within 
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Precursory Slow Slip and Foreshocks on Rough Faults</title>
+      <link>https://eqsci.mit.edu/camcat/publication/cattania-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/camcat/publication/cattania-2021/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -834,7 +842,41 @@ Three
       <link>https://eqsci.mit.edu/camcat/post/news-archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/camcat/post/news-archive/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;March&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Talk on &amp;ldquo;Precursory slip and foreshocks on rough faults&amp;rdquo; at the TECTONIC/FEAR seminar available 
+&lt;a href=&#34;https://www.youtube.com/watch?v=wJc-Wgb8GRo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, or check out the paper 
+&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JB020430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!---break--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;May&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Postdoc 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/camcat/author/enrico-milanese/&#34;&gt;Enrico Milanese&lt;/a&gt; joins the group!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;September&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD student 
+&lt;a href=&#34;https://eqsci.mit.edu/camcat/camcat/author/yudong-sun/&#34;&gt;Yudong Sun&lt;/a&gt; joins the group!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;May&lt;/strong&gt;
 &lt;ul&gt;

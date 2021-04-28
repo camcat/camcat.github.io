@@ -64,16 +64,61 @@
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/publication-type/2/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/author/ahmed-elbanna/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/authors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/author/camilla-cattania/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/earthquake-nucleation/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/fault-roughness/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tag/foreshocks/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/author/paul-segall/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/publication/cattania-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/publication_types/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/tags/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/author/ahmed-elbanna/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +129,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/brittany-a.-erickson/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/author/camilla-cattania/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,22 +198,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/author/paul-segall/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/camcat/author/pengcheng-shi/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/publication_types/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/publication/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,11 +214,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/sylvain-barbot/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/camcat/tags/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -593,11 +613,6 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/camcat/tag/fault-roughness/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/camcat/author/frank-roth/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -685,6 +700,10 @@
   <url>
     <loc>https://eqsci.mit.edu/camcat/author/y-ben-zion/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/camcat/author/enrico-milanese/</loc>
   </url>
   
   <url>
